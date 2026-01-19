@@ -44,6 +44,6 @@ jobs:
           files: |
             build/app/outputs/flutter-apk/app-release.apk
             release-ios.ipa
-          draft: true
+          draft: false
           prerelease: false
           generate_release_notes: true
