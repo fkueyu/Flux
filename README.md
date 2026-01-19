@@ -44,8 +44,8 @@ W-Link（幻彩）是一个现代化、极简设计的 WLED 设备控制应用�
 1. **克隆项目**
 
     ```bash
-    git clone https://github.com/your-username/flux.git
-    cd flux
+    git clone https://github.com/fkueyu/W-Link.git
+    cd W-Link
     ```
 
 2. **安装依赖**
