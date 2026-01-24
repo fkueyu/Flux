@@ -4,6 +4,8 @@
 
 W-Link is a modern, minimalist WLED device control app built with Flutter. It aims to provide a smooth, intuitive user experience, making WLED LED strip management simple and elegant. *(Note: This project was developed with AI assistance, for learning and reference purposes)*
 
+🌐 **Official Website**: [https://ainx.ink/](https://ainx.ink/)
+
 ## ✨ Features
 
 * **Auto Discovery**: Automatically discover WLED devices on your local network via mDNS, zero configuration required.
